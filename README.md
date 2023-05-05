@@ -1,5 +1,5 @@
 # meowMetropolis
-Cat blog site.
+Cat blog site, the development process continues.
 
 
 ![Screenshot 2023-05-05 at 20 17 47](https://user-images.githubusercontent.com/111706176/236526709-f787edb7-c317-42b3-85bd-c7e3cb38c368.png)
